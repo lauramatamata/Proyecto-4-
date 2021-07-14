@@ -11,7 +11,7 @@ Los resultados son:
 
 * La imagen recuperada:
 ![image](https://user-images.githubusercontent.com/85901448/125542256-a0a52e30-745b-4c20-bbfa-25b205aad0ab.png)
-
+Como se puede observar, la imagen que se recuperó se aseja mucho a la original, pero se debe de tener en cuenta que al realizar la modulación 16-QAM se pierde información de la imagen. 
 * Las formas de onda:
 ![image](https://user-images.githubusercontent.com/85901448/125542434-99332f6f-769d-4e2b-bf23-9c3f5b16eeeb.png)
-lkljaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
