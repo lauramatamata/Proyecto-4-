@@ -14,4 +14,4 @@ Los resultados son:
 
 * Las formas de onda:
 ![image](https://user-images.githubusercontent.com/85901448/125542434-99332f6f-769d-4e2b-bf23-9c3f5b16eeeb.png)
-
+lkljaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
