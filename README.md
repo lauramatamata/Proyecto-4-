@@ -23,6 +23,13 @@ Como se puede observar, la imagen que se recuperó se aseja mucho a la original,
 ### Realice pruebas de estacionaridad y ergodicidad a la señal modulada `senal_Tx` y obtenga conclusiones sobre estas.
 ![image](https://user-images.githubusercontent.com/85901448/125543772-6c33fae2-c526-48b5-bc2d-0f92d591ce3b.png)
 
+## Pregunta 3: 
+### Determine y grafique la densidad espectral de potencia para la señal modulada `senal_Tx`.
+
+\begin{equation}
+\displaystyle
+\mathcal{S}_{XX}(\omega) = \lim_{T \rightarrow \infty}\frac{E[\vert X_{T}(\omega) \vert^2]}{2T}
+\end{equation}
 
 
 
