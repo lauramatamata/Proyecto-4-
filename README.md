@@ -26,10 +26,6 @@ Como se puede observar, la imagen que se recuperó se aseja mucho a la original,
 ## Pregunta 3: 
 ### Determine y grafique la densidad espectral de potencia para la señal modulada `senal_Tx`.
 
-\begin{equation}
-\displaystyle
-\mathcal{S}_{XX}(\omega) = \lim_{T \rightarrow \infty}\frac{E[\vert X_{T}(\omega) \vert^2]}{2T}
-\end{equation}
+![image](https://user-images.githubusercontent.com/85901448/125545396-f997e450-81d3-46d2-b275-285a7c54b399.png)
 
-
-
+Como se observa, el punto más alto se acerca a al valor de 5000 Hz, lo que coincide con lo establecido en la fc de los parámetros ya que así de definión de la frecuencia de la portadora, los otros valores están un poco distanciados de la frecuencia de la portadora.
