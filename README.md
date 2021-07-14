@@ -21,6 +21,7 @@ Como se puede observar, la imagen que se recuperó se aseja mucho a la original,
 
 ## Pregunta 2: 
 ### Realice pruebas de estacionaridad y ergodicidad a la señal modulada `senal_Tx` y obtenga conclusiones sobre estas.
+![image](https://user-images.githubusercontent.com/85901448/125543772-6c33fae2-c526-48b5-bc2d-0f92d591ce3b.png)
 
 
 
